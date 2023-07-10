@@ -1,2 +1,4 @@
 updata 01
 then he will be find the love of mine
+
+$ git log --pretty=oneline --abbrev-commit --all --graph
